@@ -6,17 +6,17 @@ image-height: 80px
 layout: full_page
 ---
 
-[![Practicum AI Logo image](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/logo/PracticumAI_logo_250x50.png?raw=true)](https://practicumai.org/)<img src='https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/practicumai_git.png?raw=true' align='right' width=50>
+<img src='https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/practicumai_git.png?raw=true' align='right' width=100>
 
 ## Summary
 
 **Applied AI is powered by code--Python code.**
 
-<img src='https://raw.githubusercontent.com/PracticumAI/practicumai.github.io/9ca75434a8b58e6e3d395ae81489745a8f48bcaa/images/features/Jupyter_logo.svg' align='right' alt='Jupyter logo'>In most cases, especially in the early testing and development stages, this code is most easily written, and run, using [Jupyter](https://jupyter.org/) Notebooks, an open standard allowing documents to mix formatted text and images with interactive code and the results from running that code. 
+<img src='https://raw.githubusercontent.com/PracticumAI/practicumai.github.io/main/images/features/Jupyter_logo.svg' align='right' alt='Jupyter logo' style='padding: 0px 0px 0px 10px' width=80>In most cases, especially in the early testing and development stages, this code is most easily written, and run, using [Jupyter](https://jupyter.org/) Notebooks, an open standard allowing documents to mix formatted text and images with interactive code and the results from running that code. 
 
-<img src='images/Git-Logo-2Color.svg' align='right' width=100 alt='git logo'>As a best practice, code should reside in a version control system. These systems allow collaboration, enforce good coding practices and foster collaboration and sharing. The most widely used version control system today is [`git`](http://git-scm.com/). Git is free and open source. 
+<img src='https://raw.githubusercontent.com/PracticumAI/getting_started/main/images/Git-Logo-2Color.svg' align='right' width=100 alt='git logo' style='padding: 0px 0px 0px 10px'>As a best practice, code should reside in a version control system. These systems allow collaboration, enforce good coding practices and foster collaboration and sharing. The most widely used version control system today is [`git`](http://git-scm.com/). Git is free and open source. 
 
-<img src='images/GitHub-Mark.png'  align='right' width=100 alt='GitHub logo'>In addition to using `git`, it is possible to use one of many online git hosting sites. For *Practicum AI* we use [GitHub.com](https://github.com/). There are other options, but GitHub is one of the leading online hosting companies and offers [educational discounts for students and faculty](https://education.github.com/).
+<img src='https://raw.githubusercontent.com/PracticumAI/getting_started/main/images/GitHub-Mark.png'  align='right' width=100 alt='GitHub logo'>In addition to using `git`, it is possible to use one of many online git hosting sites. For *Practicum AI* we use [GitHub.com](https://github.com/). There are other options, but GitHub is one of the leading online hosting companies and offers [educational discounts for students and faculty](https://education.github.com/).
 
 ## Objectives
 

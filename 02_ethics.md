@@ -5,10 +5,11 @@ image-width: 80px
 image-height: 80px
 layout: full_page
 ---
-[![Practicum AI Logo image](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/logo/PracticumAI_logo_250x50.png?raw=true)](https://practicumai.org/)<img src='https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/practicumai_ethics.png?raw=true' alt='Practicum AI Ethics module icon' align='right' width='100'>
+<img src='https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/practicumai_ethics.png?raw=true' alt='Practicum AI Ethics module icon' align='right' width='100'>
 
 ## Summary
 
+Artificial Intelligence has great promise for advancing human understanding. However, when used inappropriately or when consequences and limitations are not considered, AI has the potential to do great harm, most often disproportionately impacting marginalized populations. While this module deals directly with ethical considerations of AI technologies, it will not be the only place ethical considerations are discussed in the Practicum AI curriculum. We address broad frameworks to facilitate ongoing discussions of ethical, equitable and just AI.
 
 ## Objectives
 
