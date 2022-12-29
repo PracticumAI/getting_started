@@ -1,6 +1,6 @@
 ---
-layout: full_page
 ---
+
 # Introduction to Artificial Intelligence and Practicum AI
 
 [![Practicum AI Logo image](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/logo/PracticumAI_logo_250x50.png?raw=true)](https://practicumai.org/)
