@@ -15,15 +15,15 @@ As you learn to code, and as we strive to make our, and your, AI explorations as
 
 **So, let's get started!**
 
-## [Module 1: What is AI](/getting_started/01_what_is_ai/) 
+## [Module 1: What is AI](01_what_is_ai.md) 
 
 The history of artificial intelligence is important.  It helps to know how others have thought about and defined intelligence.  It also allows us to appreciate the different ways in which scientists have sought to make machines intelligent.  These can be divided into two broad categories: top-down and bottom-up.  In this module, both top-down and bottom-up approaches to AI are covered, including the famous Turing Test.  This historical knowledge, in turn, allows us to see how AI has developed over time - the rise of machine learning followed by a renewed interest in neural networks.
 
-## [Module 2: Ethical AI](/getting_started/02_ethics/)<img src='https://raw.githubusercontent.com/PracticumAI/practicumai.github.io/main/images/icons/practicumai_ethics.png?raw=true' alt='Practicum AI Ethics module icon' align='right' width='100'>
+## [Module 2: Ethical AI](02_ethics.md)<img src='https://raw.githubusercontent.com/PracticumAI/practicumai.github.io/main/images/icons/practicumai_ethics.png?raw=true' alt='Practicum AI Ethics module icon' align='right' width='100'>
 
 Artificial Intelligence has great promise for advancing human understanding. However, when used inappropriately or when consequences and limitations are not considered, AI has the potential to do great harm, most often disproportionately impacting marginalized populations. While this module deals directly with ethical considerations of AI technologies, it will not be the only place ethical considerations are discussed in the Practicum AI curriculum. We address broad frameworks to facilitate ongoing discussions of ethical, equitable and just AI.
 
-## [Module 3: Reproducible AI](/getting_started/03_git_reproducibility/)<img src='https://raw.githubusercontent.com/PracticumAI/practicumai.github.io/main/images/icons/practicumai_git.png?raw=true' align='right' width=100>
+## [Module 3: Reproducible AI](03_git_reproducibility.md)<img src='https://raw.githubusercontent.com/PracticumAI/practicumai.github.io/main/images/icons/practicumai_git.png?raw=true' align='right' width=100>
 
 <img src='https://raw.githubusercontent.com/PracticumAI/practicumai.github.io/main/images/features/Jupyter_logo.svg' align='left' alt='Jupyter logo' style="padding: 0px 10px 10px 10px">In most cases, especially in the early testing and development stages, this code is most easily written, and run, using [Jupyter](https://jupyter.org/) Notebooks, an open standard allowing documents to mix formatted text and images with interactive code and the results from running that code. 
 
