@@ -1,5 +1,3 @@
----
----
 
 # Introduction to Artificial Intelligence and Practicum AI
 
