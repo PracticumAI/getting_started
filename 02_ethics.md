@@ -11,6 +11,13 @@ layout: full_page
 
 Artificial Intelligence has great promise for advancing human understanding. However, when used inappropriately or when consequences and limitations are not considered, AI has the potential to do great harm, most often disproportionately impacting marginalized populations. While this module deals directly with ethical considerations of AI technologies, it will not be the only place ethical considerations are discussed in the Practicum AI curriculum. We address broad frameworks to facilitate ongoing discussions of ethical, equitable and just AI.
 
+*Topics:* The following topics are covered in this module:
+
+- The ethical dimension of a good research question or service.
+- The philosophial frameworks for ethical thinking.
+- The importance of representative data samples.
+- The recognition of model assumptions and limitations.
+
 ## Objectives
 
 By the end of this module, students will be able to:
@@ -37,3 +44,6 @@ By the end of this module, students will be able to:
 1. [*The Alignment Problem*](https://brianchristian.org/the-alignment-problem/) By Brian Christian.
 
 ***
+#### Alignment
+The question of alignment lies at the heart of AI ethics.  That is, how do we align the technology with our values?  To answer that question, one needs to think philosophically.  Thus, this module begins by introducing two ethical frameworks, followed by an in-depth look at balanced data sets, the importance of understanding model assumptions, and the tendency of AI models to break easily (brittleness).
+
