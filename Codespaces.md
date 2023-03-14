@@ -75,4 +75,4 @@ Codespace Notebooks have two main types of cells, or blocks: Code and Markdown. 
 - **Code cells**: are used to type code to run. You can run the code with the play button in the top bar, or using the Shift and Enter keys (Shift-Enter).
 - **Markdown cells**: use Markdown syntax to present formatted text. The images, headers, and explanations are made using Markdown and rendered with the same Shift-Enter keys. If you double click on a Markdown cell, you will see the text used to format the text. Hit Shift-Enter to render it again.
 
-![Screenshot of different cell types in Codespaces](/images/code_space_cell_type.png)
+![Screenshot of different cell types in Codespaces](/images/codespace_cell_type.png)

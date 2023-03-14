@@ -41,10 +41,10 @@ Because there are many pathways to the *Practicum AI* courses, there are many op
 
 **Follow the links below for details on your specific environment:**
 
-   1. [If you have a HiPerGator account (University of Florida)]()
+   1. [If you have a HiPerGator account (University of Florida)](/getting_started/HiPerGator/)
    1. Atlas (USDA ARS)
-   1. GitHub CodeSpaces
-   1. Google Colaboratory
+   1. [To use GitHub CodeSpaces](/getting_started/Codespaces/)
+   1. [Google Colaboratory](getting_started/GoogleColab)
 
 ## Watch
 
