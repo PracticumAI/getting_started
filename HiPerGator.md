@@ -1,5 +1,5 @@
 ---
-title: "Practicum AI git and GitHub.com"
+title: "Getting started with Jupyter on HiPerGator"
 image: 'https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/practicumai_git.png?raw=true'
 image-width: 80px
 image-height: 80px
@@ -8,17 +8,16 @@ layout: full_page
 
 <img src='https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/practicumai_git.png?raw=true' align='right' width=100>
 
-## Getting started with Jupyter on HiPerGator
 
 > **Note:These instructions assume that you already have an account on HiPerGator.
 
-### 1. Connect to [https://ood.rc.ufl.edu](https://ood.rc.ufl.edu/pun/sys/dashboard)
+## 1. Connect to [https://ood.rc.ufl.edu](https://ood.rc.ufl.edu/pun/sys/dashboard)
 
 1. Open a browser and go to: [https://ood.rc.ufl.edu](https://ood.rc.ufl.edu/pun/sys/dashboard)
 (Probably good to bookmark this site as we'll use it a lot)
 1. Select your institution and login.
 
-### 1b. First time only: Link to your /blue directory
+## 1b. First time only: Link to your /blue directory
 
 > The first time you use Jupyter on HiPerGator, we need to make a link from your `/home` directory to the `/blue` directory for your group. Once setup, this will remain and there is no need to re-do this step.
 
@@ -70,7 +69,7 @@ layout: full_page
 
 1. JupyterLab will then launch in a new tab
 
-## Quick Introduction to Jupyter on HiPerGator
+## 3. Quick Introduction to Jupyter on HiPerGator
 
 When you open JupyterLab on HiPerGator, the screen should look similar to that shown below.
 
@@ -86,7 +85,7 @@ When you open JupyterLab on HiPerGator, the screen should look similar to that s
 
 In this screenshot, the Python course notebook 01_getting_started.ipynb is open. Notebooks end in the `.ipynb` extension (The predecessor tu Jupyter was iPython, hence the extension).
 
-![Screenshot of the Python notebook in Jupyter on HiPerGator](images/Jupyter_python.png)
+![Screenshot of the Python notebook in Jupyter on HiPerGator](/images/Jupyter_python.png)
 
 Notebooks have three types of cells, or blocks: Code, Markdown, and Raw. The top bar will show the type of the selected block and allow you to change the type.
 

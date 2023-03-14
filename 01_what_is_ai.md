@@ -7,12 +7,13 @@ layout: full_page
 ---
 <img src='https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/practicumai_beginner.png?raw=true' alt='Practicum AI Beginner Series icon' align='right' width='100'>
 
-## Course Outline
+## Module Outline
 
 ### Module 1
 
 #### Summary
-In this module, we introduce you to the unique features of Practicum AI; visual, story-driven learning backed by hands-on activities.  And because the best way to learn something is through practice, you'll develop an AI project plan.  In it, you'll present a research question, discuss the kinds of data needed to answer that question, and finish off with the steps needed to complete the project, including the selection and training of a model.  But don't worry!  Everything you need to know about the AI project life-cycle is presented here.   
+
+In this module, we introduce you to the unique features of Practicum AI; visual, story-driven learning backed by hands-on activities.  And because the best way to learn something is through practice, you'll develop an AI project plan.  In it, you'll present a research question, discuss the kinds of data needed to answer that question, and finish off with the steps needed to complete the project, including the selection and training of a model.  But don't worry!  Everything you need to know about the AI project life-cycle is presented here.
 
 #### Objectives
 
