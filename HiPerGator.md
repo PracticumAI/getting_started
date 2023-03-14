@@ -8,8 +8,7 @@ layout: full_page
 
 <img src='https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/practicumai_git.png?raw=true' align='right' width=100>
 
-
-> **Note:These instructions assume that you already have an account on HiPerGator.
+> **Note: These instructions assume that you already have an account on HiPerGator.**
 
 ## 1. Connect to [https://ood.rc.ufl.edu](https://ood.rc.ufl.edu/pun/sys/dashboard)
 
