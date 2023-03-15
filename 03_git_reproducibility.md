@@ -50,7 +50,7 @@ The main challenge is that GPUs (Graphical Processing Units--named because their
    1. [To use GitHub CodeSpaces](/getting_started/Codespaces/)
       - **Best for:** the Getting Started and Python courses.
       - **Drawbacks:** Currently does not provide GPU access.
-   1. [Google Colaboratory](getting_started/GoogleColab)
+   1. [Google Colaboratory](/getting_started/GoogleColab)
       - **Best for:** quick and easy start up. Some free access to GPUs for courses.
       - **Drawbacks:** Limited GPU time for free tier. No direct integration with git/GitHub.
 
