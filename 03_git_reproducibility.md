@@ -60,6 +60,43 @@ The main challenge is that GPUs (Graphical Processing Units--named because their
 
 ## Complete
 
-1. Accept the assignment and complete the directions.
+Now that you have some understanding of Jupyter Notebooks and `git`, this exercise will give you a chance to use `git`. 
+
+1. To complete this assignment, [accept the assignment](https://classroom.github.com/a/l2VposaG) and complete the directions.
+
+### Accepting a GitHub Classroom Assignment
+
+To start Jupyter in a GitHub Codespace, [click this link to accept the Introduction to Git assignment](https://classroom.github.com/a/l2VposaG).
+
+Once you click the link, you will need to authorize GitHub Classroom to access your account:
+![Screenshot of the authorization question when accepting an assignment for the first time](/images/github_authorize.png)
+
+Then you will need to accept the assignment:
+
+![Screenshot of the accept assignment page in GitHub Classroom](/images/github_accept_assignment.png)
+
+GitHub will now setup your personal repository.
+
+> This sometimes takes a minute or two. **Refresh the page** to see if it is finished.
+
+Refresh the page, and there should be a link to your repository.
+
+![Screenshot of the ready to go page showing the link to your repository](/images/github_ready.png)
+
+### Launch your Codespace
+
+Once you have the repository, you can launch the GitHub Codespace.
+
+![Screenshot of the steps to launch a Codespace](/images/github_codespaces_launch.png)
+
+1. Click the green "`<> Code`" button
+1. Click the Codespaces tab
+1. Click the "Create codespace on main" button
+
+You should see a page similar to this. Some key parts of the page are noted.
+
+### Open the README.md file and follow the directions
+
+Most of the hands-on exercise is in the 02_exercise.ipynb file.
 
 ## Optional Content / Additional Resources
