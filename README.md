@@ -1,34 +1,32 @@
 ---
-title: "Getting Started"
+title: "Getting Started with AI"
 image: '/images/icons/practicumai_beginner.png'
 image-width: 100px
 image-height: 100px
 bodyClass: "page-course"
 ---
 
-## Introduction to Artificial Intelligence and *Practicum AI*
+![Getting Started banner](/images/StartHere.png)
 
-[![Practicum AI Logo image](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/logo/PracticumAI_logo_250x50.png?raw=true)](https://practicumai.org/)
+## What is Practicum AI?
 
-Welcome! This is the place to start your AI journey.
+Welcome to the *Practicum AI: Getting Started with AI* Course! This course is intended to be the first in a series that will teach you some tools and techniques to begin training and deploying models on your own. The course can also be taken on its own to familiarize yourself with the important concepts in the field of Artificial Intelligence.
 
-Here we introduce you to artificial intelligence--it is a term we hear a lot, but can you define artificial intelligence? Did you know that AI research dates back to the 1950s? As you start to learn about AI, we will provide a brief overview of what AI is and is not, overview its origins and get you prepared to conduct hands-on, applied AI in the courses that make up the *Practicum AI* curriculum.
+Let’s start with the big picture. The *Practicum AI* program is designed to equip you with the tools and knowledge to execute *your own* AI project or mission.
 
-As you begin to learn about AI, we also firmly believe that ethical considerations must always be part of the discussion. While we will return to ethical issues throughout our courses, in the ethics module of this course we introduce some background and major ethical questions to provide some vocabulary and shared understanding to facilitate future discussions about the ethical application of AI.
+To achieve this goal, the *Practicum AI* track features a lot of technical, hands-on learning experiences. We, the *Practicum AI* Team, think that a more important question than “What can we show you?” is, “What do you want to do? What problems or research questions interest you, and how can AI tools help?” Once you answer that, everything else falls into place. We believe the best learning happens when you have a clear goal in mind.
 
-The vast majority of AI research is currently conducted using the Python programming language. We will look at some non-code examples as we start our exploration of AI, but to do applied AI, we need to learn *some* Python coding. But don't worry, our Introduction to Python course will teach you all you need to know in about 4-hours!
+So, we encourage you to think of AI—not from a technical point of view—but as a new way of answering questions, delivering services, and solving problems.
 
-As you learn to code, and as we strive to make our, and your, AI explorations as open and reproducible as possible, we also believe that it is important to use industry-standard tools to improve your own coding practices and to share code, data and AI models--part of ethical AI is open and reproducible code! Version control software provides indispensible tools that programmers and data scientists rely on for daily work. Version control software also makes it easy to share code and AI models. [`git`](https://git-scm.com/) is the leading version control software, and [GitHub.com](https://github.com/) is one of the main online hosting sites for `git` repositories. We have built *Practicum AI* using `git` and GitHub, and feel that understanding these tools is so fundamental to learning AI that we start using GitHub even before learning Python!
+Our target audience is beginners who have little-to-no technical background.
 
-**So, let's get started!**
+Again—this program is **not designed** for a highly technical audience. If you already have a strong technical background or multiple years of programming experience, there are more appropriate resources, including those offered by [NVIDIA’s Deep Learning Institute](https://www.nvidia.com/en-us/training/online/).
 
-## [Module 1: What is AI](01_what_is_ai.md)
+## In this course we’ll cover
 
-The history of artificial intelligence is important.  It helps to know how others have thought about and defined intelligence.  It also allows us to appreciate the different ways in which scientists have sought to make machines intelligent.  These can be divided into two broad categories: top-down and bottom-up.  In this module, both top-down and bottom-up approaches to AI are covered, including the famous Turing Test.  This historical knowledge, in turn, allows us to see how AI has developed over time - the rise of machine learning followed by a renewed interest in neural networks.
+* **Module 1: [What is AI?](01_what_is_ai.md):** A high-level overview of the concepts, history, and vocabulary of AI.
+* **Module 2: [Understanding AI Models](02_understanding_ai_models.md):** Hands on experience with three AI models intended to prime understanding of how they work.
+* **Module 3: [The AI Application Development Cycle](03_ai_dev_cycle.md):** A crash course in the steps to develop an AI application.
+* **Module 4: [A (Very Brief) Introduction to AI Ethics](04_ai_ethics.md):** A look at industry adopted principles that guide ethical AI development.
 
-## [Module 2: Ethical AI](02_ethics.md)<img src='https://raw.githubusercontent.com/PracticumAI/practicumai.github.io/main/images/icons/practicumai_ethics.png?raw=true' alt='Practicum AI Ethics module icon' align='right' width='100'>
-
-Artificial Intelligence has great promise for advancing human understanding. However, when used inappropriately, or when consequences and limitations are not considered, AI has the potential to do great harm, most often disproportionately impacting marginalized populations. While this module deals directly with ethical considerations of AI technologies, it will not be the only place ethical considerations are discussed in the *Practicum AI* curriculum. We address broad frameworks to facilitate ongoing discussions of ethical, equitable and just AI.
-
-## [Module 3: Reproducible AI](03_git_reproducibility.md)<img src='https://raw.githubusercontent.com/PracticumAI/practicumai.github.io/main/images/icons/practicumai_git.png?raw=true' align='right' width=100>
-
+Good luck!
