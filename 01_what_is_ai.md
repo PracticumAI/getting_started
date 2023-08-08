@@ -99,7 +99,7 @@ The 1st page of McCarthy's proposal called  "Dartmouth Summer Research Project o
 <figure style="width: 500px; max-width: 100%;">
     <img id="79167104" src="/images/Proposal-that-coined-AI.png" alt="The first page of McCarthy's proposal called &quot;Dartmouth Summer Research Project on Artificial Intelligence&quot;" width="500" height="322">
     <figcaption style="text-align: center;">The 1st page of McCarthy's proposal called&nbsp; "Dartmouth Summer Research Project on Artificial Intelligence"</figcaption>  
-</figure>
+</figure><br>
 </center>
  
 McCarthy coined the phrase “artificial intelligence” when he wrote the funding proposal for the Rockefeller Foundation. This is where modern AI began.​ McCarthy also provided a short definition. 
@@ -111,7 +111,7 @@ In early 1955, John McCarthy accepted a position as an Assistant Professor of Ma
 <center><figure style="width: 300px; max-width: 100%; ">
     <img id="79715089" src="/images/Alan_Turing_Aged_16.jpg" alt="Alan Turing at age 16" width="288" height="392">
     <figcaption class="" style="text-align: center;">Alan Turing at age 16</figcaption>
-</figure></center>
+</figure><br></center>
 
 Any historical survey of AI would be incomplete without Alan Turing.  Turing is a towering figure in AI.  He was a mathematical genius who thought a lot about the question of intelligence.  Turing first proposed a test of intelligence in 1950, in an article entitled, Computing Machinery and Intelligence. This has become a foundational document in the field.​
 
@@ -130,9 +130,9 @@ ELIZA’s legacy lives on to this day.  In 1990, Hugh Loebner created the Loebne
 Deep Blue was a chess-playing computer developed by IBM. It was first announced in 1996, and it was designed to defeat world chess champion Garry Kasparov. Deep Blue used a combination of brute force and expert knowledge to play chess. It could search through millions of possible moves in a fraction of a second, and it could also draw on the expertise of human chess grandmasters. In 1997, Deep Blue defeated Kasparov in a six-game match. The match was closely contested, but Deep Blue ultimately won by a score of 3.5 to 2.5. Deep Blue's victory was a breakthrough for AI, and it showed that computers could now compete with humans at the highest levels of chess.
 
 <center><figure style="width: 300px; max-width: 100%;">
-    <img id="79711634" style="width: 100%;" src="/images/IBM_Deep_Blue_at_Computer_History_Museum_(9361685537).jpg" alt="IBM Deep Blue computer photo from the Computer History Museum" width="298" height="447">
+    <img id="79711634" src="/images/IBM_Deep_Blue_at_Computer_History_Museum_(9361685537).jpg" alt="IBM Deep Blue computer photo from the Computer History Museum" width="298" height="447">
     <figcaption>IBM Deep Blue computer photo from the Computer History Museum</figcaption>
-</figure></center>
+</figure><br></center>
 
 Watson is a question-answering computer developed also developed by IBM. It was designed to compete on the Jeopardy! quiz show. Watson used a combination of natural language processing and machine learning to answer questions. It could ‘understand’ the meaning of questions, and it could search through vast amounts of data to find the correct answers. In 2011, Watson won the Jeopardy! quiz show against two of the show's most experienced champions. Watson's victory showed both the power and potential of AI and natural language processing.
 
