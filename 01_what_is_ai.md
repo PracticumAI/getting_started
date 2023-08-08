@@ -183,11 +183,11 @@ To give some perspective, we need a way to measure computer “speed”. This is
 
 Year | Computer	| Speed in FLOPs
 -----|----------|---------------
-1997 | IBM's Deep Blue | $11.38*10^{9}$ FLOPs (~11 GigaFLOPS)
-2016 | Google's AlphaGo | $180*10^{12}$ FLOPs  (180 TeraFLOPS)
-2021 | UF's HiPerGator | $75*10^{15}$ FLOPs  (13 PetaFLOPS)
-2022 | Computer that trained ChatGPT 3.5 | $100.7*10^{15}$ FLOPs (100 PetaFLOPS)
-2023 | World's fastest computer in May 2023 | $2*10^{18}$ FLOPs (2 ExaFLOPS)
+1997 | IBM's Deep Blue | 11.38*10<sup>9</sup> FLOPs (~11 GigaFLOPS)
+2016 | Google's AlphaGo | 180*10<sup>12</sup> FLOPs  (180 TeraFLOPS)
+2021 | UF's HiPerGator | 13.75*10<sup>15</sup> FLOPs  (13 PetaFLOPS)
+2022 | Computer that trained ChatGPT 3.5 | 100.7*10<sup>15</sup> FLOPs (100 PetaFLOPS)
+2023 | World's fastest computer in May 2023 | 2*10<sup>18</sup> FLOPs (2 ExaFLOPS)
 
 As you can see, supercomputers are getting pretty FLOPpy—we are now in what is known as the era of ExaScale computing. The main reason for this is the advent of GPUs (graphic processing units). CPUs are designed for general-purpose computing tasks. They excel at tasks that require high single-threaded performance and are designed to handle a wide range of applications, from running operating systems to running complex software. GPUs, on the other hand, have a massively parallel architecture with hundreds or even thousands of smaller cores. These cores are optimized for simultaneous execution of multiple tasks, making GPUs ideal for parallel processing. Originally developed for rendering graphics, GPUs have evolved into highly efficient processors for handling repetitive, data-parallel computations, which are common in graphics rendering, scientific simulations, and machine learning.
 
