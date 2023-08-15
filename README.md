@@ -3,7 +3,7 @@ title: "Getting Started with AI"
 image: '/images/icons/practicumai_beginner.png'
 image-width: 100px
 image-height: 100px
-bodyClass: "page-course"
+layout: title: "A Brief Intro to AI Ethics"
 ---
 
 ![Getting Started banner](/images/StartHere.png)

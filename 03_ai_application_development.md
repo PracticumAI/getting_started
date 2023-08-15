@@ -3,7 +3,7 @@ title: "AI Application Development Pathway"
 image: 'https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/practicumai_beginner.png?raw=true'
 image-width: 80px
 image-height: 80px
-layout: full_page
+layout: page_no_title
 ---
 
 ![AI Application Development Pathway header](/images/ai_application_development_pathway.png)
@@ -87,3 +87,7 @@ Let's take a few minutes to gather some samples!
 1. **Deploy the model.** A model that just sits on your machine or some supercomputer likely isn't much help. It's outside the scope of this course to deploy your model on other platforms, but it is important to know that this is a step in the process. You'd want to have the model hosted somewhere where you can give it new inputs and have it output its predictions.
 
 **And that's it, the AI Application Development Pathway!**
+
+***
+
+[Back to course home](/getting_started/README) or on to [Module 4: A (Very) Brief Intro to AI Ethics](/getting_started/04_brief_intro_ai_ethics)

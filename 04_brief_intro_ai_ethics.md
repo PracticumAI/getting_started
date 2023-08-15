@@ -1,8 +1,9 @@
 ---
+title: "A Brief Intro to AI Ethics"
 image: 'https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/practicumai_beginner.png?raw=true'
 image-width: 80px
 image-height: 80px
-layout: full_page
+layout: page_no_title
 ---
 
 ![A Brief Intro to AI Ethics header](/images/brief_into_to_ai_ethics.png)
@@ -88,3 +89,7 @@ Let’s look at MIT’s Moral Machine. The Moral Machine is part survey, part to
       1. Do you think that this crowdsourced method is the right way to make these ethical decisions? If not, how should they be made (panel of ethicists, the discretion of programmers, elected officials, etc.)?
       1. How do you feel about offloading potentially lethal decision-making to machines? While these scenarios seem contrived and there are likely alternatives to avoid killing anyone, at some level, AI controlled systems are already making decisions now that may result in harms to some people and benefits to others. Who programs those systems and how they are programmed to act is already relevant to the discussions around AI.
       1. What other ethical considerations should be taken into account when thinking about the behavior of self-driving cars?
+
+***
+
+[Back to course home](/getting_started/README)

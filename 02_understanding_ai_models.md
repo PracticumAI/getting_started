@@ -3,7 +3,7 @@ title: "Understanding AI Models"
 image: 'https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/practicumai_beginner.png?raw=true'
 image-width: 80px
 image-height: 80px
-layout: full_page
+layout: page_no_title
 ---
 
 ![Understanding AI Models header](/images/understanding_ai_models.png)
@@ -64,3 +64,7 @@ Onto something completely different; Image Object Classification. We're going to
 ### Can You Hear Me Now?
 
 Finally, we'll test out a sound classifier. This model works similarly to the Image Classifier you just used. Follow the steps outlined above to train, test and explore your model. As before, while you're working with this model consider how you might use this technology in your work.
+
+***
+
+[Back to course home](/getting_started/README) or on to [Module 3: AI Application Development Pathway](/getting_started/03_ai_application_development)
