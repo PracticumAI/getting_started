@@ -57,6 +57,10 @@ Onto something completely different; Image Object Classification. We're going to
   * **Loss per Epoch:** A measure of how well a machine learning model performs at predicting the correct output after each epoch of training. It is calculated by averaging the loss over all the instances in the training data.
 * Now that you've had a chance to play with the model, how could you use an Object Classification model in your work?
 
+> **The Language of AI**
+>
+> If you’re panicky about the terms, that’s normal. We’re just touching on them now, but we’ll go into more depth in later courses.
+
 ### Can You Hear Me Now?
 
 Finally, we'll test out a sound classifier. This model works similarly to the Image Classifier you just used. Follow the steps outlined above to train, test and explore your model. As before, while you're working with this model consider how you might use this technology in your work.
