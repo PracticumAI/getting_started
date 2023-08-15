@@ -10,7 +10,7 @@ layout: page_no_title
 
 AI ethics is an enormous topic, at least as large as AI itself. You could take an entire university level course on the subject (here at the University of Florida, no less). In the time we have allotted for this content, we will barely scratch the surface of the topic. Still, it is vitally important that when working with AI tools that you keep ethics at the forefront of your mind. At some level, all AI tools represent offloading human decision-making to a machine, which then in-turn affects other humans
 
-![Evil AI cartoons: A driverless car looking frustrated says "I'm just a car minding my own business. Now everyone wants me to be the pinnacle of morality. Please stop?!" while 3 men look on talking](images/Evil_AI_Cartoon_car.jpg)
+![Evil AI cartoons: A driverless car looking frustrated says "I'm just a car minding my own business. Now everyone wants me to be the pinnacle of morality. Please stop?!" while 3 men look on talking](/images/Evil_AI_Cartoon_car.jpg)
 
 Evil AI Cartoon. Credit - [EvilAICartoons.com](https://www.evilaicartoons.com/archive/use-all-tools-of-regulation)
 
