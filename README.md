@@ -24,9 +24,9 @@ Again—this program is **not designed** for a highly technical audience. If you
 
 ## In this course we’ll cover
 
-* **Module 1: [What is AI?](01_what_is_ai.md):** A high-level overview of the concepts, history, and vocabulary of AI.
-* **Module 2: [Understanding AI Models](02_understanding_ai_models.md):** Hands on experience with three AI models intended to prime understanding of how they work.
-* **Module 3: [The AI Application Development Cycle](03_ai_dev_cycle.md):** A crash course in the steps to develop an AI application.
-* **Module 4: [A (Very Brief) Introduction to AI Ethics](04_ai_ethics.md):** A look at industry adopted principles that guide ethical AI development.
+* **Module 1: [What is AI?](/getting_started/01_what_is_ai):** A high-level overview of the concepts, history, and vocabulary of AI.
+* **Module 2: [Understanding AI Models](/getting_started/02_understanding_ai_models):** Hands on experience with three AI models intended to prime understanding of how they work.
+* **Module 3: [The AI Application Development Cycle](/getting_started/03_ai_application_development):** A crash course in the steps to develop an AI application.
+* **Module 4: [A (Very Brief) Introduction to AI Ethics](/getting_started/04_brief_intro_ai_ethics):** A look at industry adopted principles that guide ethical AI development.
 
 Good luck!

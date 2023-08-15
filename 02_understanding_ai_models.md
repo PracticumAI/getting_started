@@ -6,7 +6,7 @@ image-height: 80px
 layout: full_page
 ---
 
-![Understanding AI Models header](images/understanding_ai_models.png)
+![Understanding AI Models header](/images/understanding_ai_models.png)
 
 ## Module 2 Understanding AI Models
 

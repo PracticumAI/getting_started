@@ -1,14 +1,11 @@
 ---
-title: "A Brief Intro to AI Ethics"
 image: 'https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/practicumai_beginner.png?raw=true'
 image-width: 80px
 image-height: 80px
 layout: full_page
 ---
 
-![A Brief Intro to AI Ethics header](images/brief_into_to_ai_ethics.png)
-
-## Module 4: A Very Brief Introduction to Ethics in AI
+![A Brief Intro to AI Ethics header](/images/brief_into_to_ai_ethics.png)
 
 AI ethics is an enormous topic, at least as large as AI itself. You could take an entire university level course on the subject (here at the University of Florida, no less). In the time we have allotted for this content, we will barely scratch the surface of the topic. Still, it is vitally important that when working with AI tools that you keep ethics at the forefront of your mind. At some level, all AI tools represent offloading human decision-making to a machine, which then in-turn affects other humans
 

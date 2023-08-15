@@ -6,7 +6,7 @@ image-height: 80px
 layout: full_page
 ---
 
-![AI Application Development Pathway header](images/ai_application_development_pathway.png)
+![AI Application Development Pathway header](/images/ai_application_development_pathway.png)
 
 ## Module 3: The AI Application Development Pathway
 
