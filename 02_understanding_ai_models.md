@@ -18,9 +18,9 @@ The big takeaway here is that AI models are spectacular at finding, highlighting
 
 As we touched on in the last module, generative text models have gone from a pipe dream to big business. Let's cut to the chase and explore how they actually work. Keep in mind that to a large extent, the principles that underly the workings for LLMs are the same for all ML applications.
 
-* Large Language Models from Scratch - https://youtu.be/lnA9DMvHtfI [1]
-* Large Language Models: Part 2 - https://youtu.be/YDiSFS-yHwk [2]
-
+* [Large Language Models from Scratch](https://youtu.be/lnA9DMvHtfI)  
+* [Large Language Models: Part 2](https://youtu.be/YDiSFS-yHwk)
+ 
 * Now let's tinker with two different LLMs, ChatGPT 3.5 and HuggingChat.
 
   * HuggingChat - [https://huggingface.co/chat/](https://huggingface.co/chat/)
