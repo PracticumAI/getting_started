@@ -3,7 +3,7 @@ title: "What is AI?"
 image: 'https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/practicumai_beginner.png?raw=true'
 image-width: 80px
 image-height: 80px
-layout: full_page
+layout: page_no_title
 ---
 
 ![What is AI Banner](/images/what_is_ai_header.png)
@@ -230,3 +230,7 @@ While Python's dominance in AI is significant, it's worth noting that other prog
 Once you have reviewed each of the topics in this module, check your learning by completing this self-check quiz:
 
 Module 1 Quiz **Quizzes are only available within Canvas courses**
+
+***
+
+[Back to course home](/getting_started/README) or on to [Module 2: Understanding AI Models](/getting_started/02_understanding_ai_models) 
