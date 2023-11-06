@@ -6,7 +6,7 @@
 
 ### Handouts
 
-* [Module 1: What is AI?](Module_1_Slides_What_is_AI.pdf)
+* [Module 1: What is AI?](Module_1_What_is_AI.pdf)
 * [Module 2: Understanding AI models](Module_2_Understanding_AI_Models.pdf)
 * [Module 3: The AI Application Development Cycle](Module_3_The_AI_Application_Development_Pathway.pdf)
 * [Module 4: A Very Brief Introduction to AI Ethics](Module_4_A_Very_Brief_Introduction_to_Ethics_in_AI.pdf)
