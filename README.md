@@ -22,7 +22,7 @@ Our target audience is beginners who need more technical background and structur
 
 Again—this program is not designed for a highly technical audience. NVIDIA's Deep Learning Institute and other courses offer more appropriate resources if you already have a solid technical background or multiple years of programming experience.  
 
-## In this course we’ll cover
+## In this course, we will cover
 
 * **Module 1: [What is AI?](/getting_started/01_what_is_ai):** A high-level overview of AI's concepts, history, and vocabulary.
 * **Module 2: [Understanding AI Models](/getting_started/02_understanding_ai_models):** Hands-on experience with three AI models intended to prime understanding of how they work.
