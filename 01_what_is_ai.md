@@ -17,12 +17,6 @@ layout: page_no_title
 * [It's Not All Ray Tracing and Upscaling](#its-not-all-ray-tracing-and-upscaling)
 * [The Python Supremacy](#the-python-supremacy)
 
-## Activities
-
-* [Exercise 1: KukiAI](#exercise-1-kuki-ai)
-* [Optional Exercise: ChatGPT](#optional-exercise)
-* [Practice and Apply](#practice-and-apply)
-
 ## Objectives
 
 By the end of this module, students will be able to:
