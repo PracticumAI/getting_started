@@ -30,7 +30,7 @@ By the end of this module, students will be able to:
 
 ## Watch
 
-[![Thumbnail screenshot of a Practicum AI video](images/video_thumbnail.png)](https://mediasite.video.ufl.edu/Mediasite/Play/471be469013f4837b8b2c0c36815306f1d)
+[![Thumbnail screenshot of a Practicum AI video](/images/video_thumbnail.png)](https://mediasite.video.ufl.edu/Mediasite/Play/471be469013f4837b8b2c0c36815306f1d) [Video: AI Ethics](https://mediasite.video.ufl.edu/Mediasite/Play/471be469013f4837b8b2c0c36815306f1d)
 
 ## The Rome Call for AI Ethics
 

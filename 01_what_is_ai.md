@@ -32,9 +32,9 @@ By the end of this module, students will be able to:
 
 ### Watch
 
-What is AI?
 
-[![Thumbnail screenshot of a Practicum AI video](images/video_thumbnail.png)](https://mediasite.video.ufl.edu/Mediasite/Play/e8eb0be8bdde4418aee51a583b3344f01d)
+
+[![Thumbnail screenshot of a Practicum AI video](/images/video_thumbnail.png)](https://mediasite.video.ufl.edu/Mediasite/Play/e8eb0be8bdde4418aee51a583b3344f01d) [Video: What is AI?](https://mediasite.video.ufl.edu/Mediasite/Play/e8eb0be8bdde4418aee51a583b3344f01d)
 
 ### Defining AI
 
@@ -115,7 +115,7 @@ The Turing Test (designed, of course, by Turing) of intelligence has been hugely
 1. The Turing Test is a computer version of that game.  In the following image, we see a Human questioner in the middle, sending questions to a computer and another human.  The interaction is purely in the form of text and answers: the human questioner types a question, and a response is displayed.  Now, that person's task is to determine whether the thing being interrogated is a person or a computer program.
 1. Now, suppose that the thing being interrogated is indeed a computer program.  But after some reasonable amount of time, the questioners cannot tell whether they are interacting with a program or a person.  Then surely, Turing argued, you should accept that the program has some sort of human-level intelligence because the system is doing something that makes it **indistinguishable** from the real thing.  The key word here is indistinguishable…​
 
-![A schematic of the Turing test](images/Turing_test.png)
+![A schematic of the Turing test](/images/Turing_test.png)
 
 Then, in 1958, Frank Rosenblatt created the first perceptron. Perceptrons, also known as McCullogh-Pitts neurons after the researchers that theorized them, are algorithms for supervised learning of binary classifiers, making them the first implementation of what we'd come to call 'Machine Learning.' We'll review perceptrons, supervised learning, and binary classifiers later in Module 2 of this course.
 
@@ -174,7 +174,7 @@ HPC systems are typically large supercomputers that can quickly crunch massive a
 
 What is a “supercomputer”? A supercomputer is multiple computers networked (or clustered, as IT nerds like to say) together. The number of computers in a cluster can be anywhere from two to thousands. Special software and networking equipment allow the machines to work as one large computer.
 
-We need a way to measure computer “speed” to give some perspective. This is usually measured in FLOPS (Floating Point Operations Per Second). Without getting into the weeds, this measures how fast a computer can do mathematical calculations. A modern desktop computer (with a graphics card) can process 6.1*10<sup>12<sup> FLOPS (6.1 trillion floating point operations per second), though this varies widely (and gets higher all the time!).
+We need a way to measure computer “speed” to give some perspective. This is usually measured in FLOPS (Floating Point Operations Per Second). Without getting into the weeds, this measures how fast a computer can do mathematical calculations. A modern desktop computer (with a graphics card) can process 6.1*10<sup>12</sup> FLOPS (6.1 trillion floating point operations per second), though this varies widely (and gets higher all the time!).
 
 Year | Computer	| Speed in FLOPs
 -----|----------|---------------
@@ -207,7 +207,7 @@ While supercomputers offer significant computational power and performance advan
 
 ### The Python Supremacy
 
-The last piece of the AI puzzle is the Python programming language. Python has become the predominant programming language in the field of artificial intelligence (AI) for several reasons: ![The Python Logo](images/Python-logo.svg)
+<img alt='The Python Logo' src='/images/Python-logo.svg' align='right'> The last piece of the AI puzzle is the Python programming language. Python has become the predominant programming language in the field of artificial intelligence (AI) for several reasons: 
 
 1. **Simplicity and Readability:** Python is known for its simplicity and readability. Its clean syntax and straightforward structure make writing and understanding code more accessible for developers. This characteristic makes Python an ideal language for prototyping and experimenting with AI algorithms and models.
 1. **Large and Active Community:** Python has a vast and active community of developers. This community has contributed to developing numerous libraries, frameworks, and tools specifically tailored for AI and machine learning (ML) tasks. Popular libraries like TensorFlow, PyTorch, and scikit-learn have extensive Python support, making implementing AI algorithms and models easier.

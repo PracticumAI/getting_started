@@ -29,42 +29,29 @@ By the end of this module, students will be able to:
 
 ## Watch
 
-[![Thumbnail screenshot of a Practicum AI video](images/video_thumbnail.png)](https://mediasite.video.ufl.edu/Mediasite/Play/784cbce5cde94830bfc2b880e6a7cb161d)
+[![Thumbnail screenshot of a Practicum AI video](/images/video_thumbnail.png)](https://mediasite.video.ufl.edu/Mediasite/Play/784cbce5cde94830bfc2b880e6a7cb161d) [Video: AI Application Developtment Pathway](https://mediasite.video.ufl.edu/Mediasite/Play/784cbce5cde94830bfc2b880e6a7cb161d)
 
 ## The AI Application Development Pathway
 
 In this module, we will be looking at AI application development. Regardless of your model, the development pathway follows the same fundamental steps. 
 
-![A diagram of the AI Application Development Pathway with the steps listed below](images/application_dev_pathway.png)
+![A diagram of the AI Application Development Pathway with the steps listed below](/images/application_dev_pathway.png)
 
 Those steps are:
 
----
-<img src='images/step1.png' alt='Step 1. Choose a problem' width=50 align='left'>1. **Choose a problem to solve.** The first step in developing an AI model is to choose a problem to solve. This could be anything from classifying images to predicting customer behavior.
-
----
-<img src='images/step2.png' alt='Step 2. Gather data' width=50 align='left'>2. **Gather data.** Once you have chosen a problem, you need to gather data. This data will be used to train your model. The more data you have, the better your model will be.
-
----
-<img src='images/step3.png' alt='Step 3. Clean and prep data' width=50 align='left'>3. **Clean and prepare the data.** Once you have gathered your data, you need to clean and prepare it. This means removing any errors or inconsistencies in the data. You may also need to normalize the data so that it is all on the same scale.
-
----
-<img src='images/step4.png' alt='Step 4. Choose a model' width=50 align='left'> 4. **Choose a model.** There are many different types of AI models that you can choose from. The type of model you choose will depend on the problem you are trying to solve.
-
----
-<img src='images/step5.png' alt='Step 5. Train the model' width=50 align='left'>5. **Train the model.** Once you have chosen a model, you need to train it. This is done by feeding the model the data you have gathered and prepared. The model will learn from the data and improve its accuracy over time.
-
----
-<img src='images/step6.png' alt='Step 6. Evaluate the model' width=50 align='left'>6. **Evaluate the model.** Once the model has been trained, you need to evaluate it. This is done by testing the model on a dataset that it has not seen before. The evaluation will help you to determine how well the model performs on new data.
-
----
-<img src='images/step7.png' alt='Step 7. Deploy the model' width=50 align='left'>7. **Deploy the model.** Once you are satisfied with the performance of the model, you can deploy it. This means making it available to users so that they can use it to solve problems.
+1. **Choose a problem to solve.** The first step in developing an AI model is to choose a problem to solve. This could be anything from classifying images to predicting customer behavior.
+1. **Gather data.** Once you have chosen a problem, you need to gather data. This data will be used to train your model. The more data you have, the better your model will be.
+1. **Clean and prepare the data.** Once you have gathered your data, you need to clean and prepare it. This means removing any errors or inconsistencies in the data. You may also need to normalize the data so that it is all on the same scale.
+1. **Choose a model.** There are many different types of AI models that you can choose from. The type of model you choose will depend on the problem you are trying to solve.
+1. **Train the model.** Once you have chosen a model, you need to train it. This is done by feeding the model the data you have gathered and prepared. The model will learn from the data and improve its accuracy over time.
+1. **Evaluate the model.** Once the model has been trained, you need to evaluate it. This is done by testing the model on a dataset that it has not seen before. The evaluation will help you to determine how well the model performs on new data.
+1. **Deploy the model.** Once you are satisfied with the performance of the model, you can deploy it. This means making it available to users so that they can use it to solve problems.
 
 ---
 
 ### Seems easy enough! Let's do it ourselves:
 
-<img src='images/step1.png' alt='Step 1. Choose a problem' width=75 align='left'>1. **Choose a problem to solve.** As we mentioned in Module 2, any problem where there is some pattern in the data can be solved to some extent by AI. 
+<img src='/images/step1.png' alt='Step 1. Choose a problem' width=100 style='float: left; padding: 0px 10px 10px 0px'>1. **Choose a problem to solve.** As we mentioned in Module 2, any problem where there is some pattern in the data can be solved to some extent by AI. 
 
 Things to consider when choosing a problem:
 
@@ -74,7 +61,7 @@ Things to consider when choosing a problem:
    * For now, we’re going to pretend that we’ve been tasked to categorize people's food choices in a cafeteria. We will build a model that recognizes junk food vs healthy food from camera footage to evaluate people’s choices.
 
 --- 
-<img src='images/step2.png' alt='Step 2. Gather data' width=75 align='left'> 2. **Gather data.** Probably the most challenging step in AI development is gathering the data to train and validate your model. 
+<img src='/images/step2.png' alt='Step 2. Gather data' width=100 style='float: left; padding: 0px 10px 10px 0px'> 2. **Gather data.** Probably the most challenging step in AI development is gathering the data to train and validate your model. 
 
 Here are some things to consider for data gathering:
 
@@ -89,7 +76,7 @@ Here are some things to consider for data gathering:
 
 
 ---
-<img src='images/step3.png' alt='Step 3. Clean and prep data' width=75 align='left'>3. **Clean and prepare the data** The data you gather will have to be fed through a mathematical algorithm and, as such, must be formatted so the algorithm can “understand.” 
+<img src='/images/step3.png' alt='Step 3. Clean and prep data' width=100 style='float: left; padding: 0px 10px 10px 0px'>3. **Clean and prepare the data** The data you gather will have to be fed through a mathematical algorithm and, as such, must be formatted so the algorithm can “understand.” 
 
 Tips for preparing your data:
 
@@ -103,7 +90,7 @@ Tips for preparing your data:
 
 
 ---
-<img src='images/step4.png' alt='Step 4. Choose a model' width=75 align='left'>4. **Choose a model.** This part can be tricky in that there are many kinds of models! Already having data will significantly reduce the number of models to choose from (some models only take tabular data, others sound files, etc.) An important consideration for what kind of model to choose involves whether or not your data is labeled. Labeled data is essentially a set of already-solved problems that tell the model what it should look for. If you recall the well-known equation *y* = *mx*+*b* (for defining a line), the “*y*” would be your label. Having x-rays of bones, some labeled broken and others labeled unbroken, tells the model what patterns it should associate with which labels. 
+<img src='/images/step4.png' alt='Step 4. Choose a model' width=100 style='float: left; padding: 0px 10px 10px 0px'>4. **Choose a model.** This part can be tricky in that there are many kinds of models! Already having data will significantly reduce the number of models to choose from (some models only take tabular data, others sound files, etc.) An important consideration for what kind of model to choose involves whether or not your data is labeled. Labeled data is essentially a set of already-solved problems that tell the model what it should look for. If you recall the well-known equation *y* = *mx*+*b* (for defining a line), the “*y*” would be your label. Having x-rays of bones, some labeled broken and others labeled unbroken, tells the model what patterns it should associate with which labels. 
 
 Here is a summary of the three learning types:
 
@@ -118,14 +105,14 @@ Which learning type do you think we’ll be using for this junk vs healthy food 
 Which model type should we pick to help us sort different food categories from video footage?
 
 ---
-<img src='images/step5.png' alt='Step 5. Train the model' width=75 align='left'>5. **Train the model.** This is probably the easiest step… if it works. There isn’t much to say here at this step except that it’s possible that due to the hyperparameters (model settings that you adjust, like learning rate or the optimizer used) you choose, or the dataset you’re using, or the compute resources available to you, your model may fail to converge (a fancy word for reaching a solution to your problem). If that’s the case, you’ll have to start troubleshooting.
+<img src='/images/step5.png' alt='Step 5. Train the model' width=100 style='float: left; padding: 0px 10px 10px 0px'>5. **Train the model.** This is probably the easiest step… if it works. There isn’t much to say here at this step except that it’s possible that due to the hyperparameters (model settings that you adjust, like learning rate or the optimizer used) you choose, or the dataset you’re using, or the compute resources available to you, your model may fail to converge (a fancy word for reaching a solution to your problem). If that’s the case, you’ll have to start troubleshooting.
 
 One other important point: the tool we’re using is taking our dataset and splitting it up for us (85% for training, 15% for validation). This is a necessary step for the development process, and one that isn’t usually automatic!
 
 Here's where we’ll train our models. Fingers crossed!
 
 ---
-<img src='images/step6.png' alt='Step 6. Evaluate the model' width=75 align='left'>6. **Evaluate the model.** Remember the Under the Hood stuff from Module 2? This is where that comes into play. 
+<img src='/images/step6.png' alt='Step 6. Evaluate the model' width=100 style='float: left; padding: 0px 10px 10px 0px'>6. **Evaluate the model.** Remember the Under the Hood stuff from Module 2? This is where that comes into play. 
 
 Here is how you can use metrics to fine-tune your model:
 
@@ -139,7 +126,7 @@ You may be curious about how accurate our model needs to be. That’s up to you 
 Should you add more data to improve your model’s accuracy? Tweak your hyperparameters? Both? Why?
 
 ---
-<img src='images/step7.png' alt='Step 7. Deploy the model' width=75 align='left'>7. **Deploy the model.** A model nobody else can access or use isn't much benefit. Plus, sharing your model and model implementation code is important to adhering to open science standards. In some cases, you might even want to deploy a model as part of an app or end-user tool, but more often, you simply want to make your model available to other researchers. Your model can be shared with the public via external code- and model-hosting platforms or with others on the same computing system. It’s outside the scope of this course to deploy your model on other platforms, but it is important to know that this is possible and will often be a necessary step in the process.
+<img src='/images/step7.png' alt='Step 7. Deploy the model' width=100 style='float: left; padding: 0px 10px 10px 0px'>7. **Deploy the model.** A model nobody else can access or use isn't much benefit. Plus, sharing your model and model implementation code is important to adhering to open science standards. In some cases, you might even want to deploy a model as part of an app or end-user tool, but more often, you simply want to make your model available to other researchers. Your model can be shared with the public via external code- and model-hosting platforms or with others on the same computing system. It’s outside the scope of this course to deploy your model on other platforms, but it is important to know that this is possible and will often be a necessary step in the process.
 
 **And that's it, the AI Application Development Pathway!**
 
