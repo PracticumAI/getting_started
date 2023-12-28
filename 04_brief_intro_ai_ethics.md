@@ -3,7 +3,7 @@ title: "A Brief Intro to AI Ethics"
 image: 'https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/practicumai_beginner.png?raw=true'
 image-width: 80px
 image-height: 80px
-layout: page_no_title
+layout: full_page_no_title
 ---
 
 ![A Brief Intro to AI Ethics header](/images/brief_into_to_ai_ethics.png)

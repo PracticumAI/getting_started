@@ -3,7 +3,7 @@ title: "Getting Started with AI: A Practicum AI Course"
 image: '/images/icons/practicumai_beginner.png'
 image-width: 100px
 image-height: 100px
-layout: page_no_title
+layout: full_page_no_title
 ---
 
 ![Getting Started banner](/images/StartHere.png)
