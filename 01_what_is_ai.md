@@ -3,7 +3,7 @@ title: "What is AI?"
 image: 'https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/practicumai_beginner.png?raw=true'
 image-width: 80px
 image-height: 80px
-layout: page_no_title
+layout: full_page_no_title
 ---
 
 ![What is AI Banner](/images/what_is_ai_header.png)

@@ -3,7 +3,7 @@ title: "Understanding AI Models"
 image: 'https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/practicumai_beginner.png?raw=true'
 image-width: 80px
 image-height: 80px
-layout: page_no_title
+layout: full_page_no_title
 ---
 
 ![Understanding AI Models header](/images/understanding_ai_models.png)
